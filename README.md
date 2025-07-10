@@ -49,8 +49,7 @@ The goal was to train a driving agent capable of **safe navigation**, **obstacle
 
 ## 📸 Demo
 
-🎥 [Watch the simulation video](#) *(replace this with actual link)*
-
+🎥 [Watch the simulation video](https://drive.google.com/drive/folders/122g_HMwsO1Y-fMs9Cl4lic1Hsq9NRVCk?usp=sharing)
 ---
 
 ## Code Access
